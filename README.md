@@ -10,4 +10,4 @@ This project is transcribing the harbour board records from 1914-1920 so that so
 A number of people will be working on adding data to the Wiki Data as seen on the [Dashboard](https://outreachdashboard.wmflabs.org/courses/CodeTheCity/CTC19-Data-History-Innovation/home)
 
 ## Aberdeen Built Ships
-As part of the wiki data effort, the [Aberdeen Built Ships](https://github.com/CodeTheCity/aberdeen-built-ships) scraps info from [Aberdeen Built Ships](http://www.aberdeenships.com/browse.asp) to add data to the wiki data commons.
+As part of the wiki data effort, the [Aberdeen Built Ships](https://github.com/CodeTheCity/aberdeen-built-ships) scraps info from [Aberdeen Built Ships](http://www.aberdeenships.com/browse.asp) database to add data to the wiki data commons.
